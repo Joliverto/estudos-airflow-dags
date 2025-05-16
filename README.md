@@ -1,2 +1,2 @@
 # estudos-airflow-dags
-Estudando Airflow e criando DAGs
+Estudando airflow e criando DAGs
