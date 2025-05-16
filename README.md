@@ -1,6 +1,6 @@
 # airflow-dag-conta-linhas
 
-Projeto desenvolvido como forma de consolidar os conhecimentos iniciais sobre **DAGs no Apache Airflow**, utilizando uma fonte de dados pública da API da **NYC OpenData**: *FDNY Firehouse Listing - Location of Firehouses and Companies*.
+Directed Acyclic Graph (DAG) desenvolvida como forma de consolidar os conhecimentos iniciais sobre **DAGs no Apache Airflow**, utilizando uma fonte de dados pública da API da **NYC OpenData**: *FDNY Firehouse Listing - Location of Firehouses and Companies*.
 
 ## 🧠 Habilidades Desenvolvidas
 
@@ -11,7 +11,7 @@ Projeto desenvolvido como forma de consolidar os conhecimentos iniciais sobre **
 - Uso de `XCom` para comunicação entre tarefas no Airflow
 - Estrutura de decisão (branching) com validação condicional de dados
 
-## ⚙️ Descrição do Projeto
+## ⚙️ Descrição da DAG
 
 A DAG criada executa a cada 30 minutos e realiza os seguintes passos:
 
